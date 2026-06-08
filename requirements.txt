@@ -1,0 +1,11 @@
+pyspark
+pyarrow
+pandas
+numpy
+scikit-learn
+umap-learn
+matplotlib
+seaborn
+networkx
+tqdm
+huggingface_hub
