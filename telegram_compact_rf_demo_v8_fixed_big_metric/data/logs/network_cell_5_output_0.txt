@@ -1,0 +1,7 @@
+Top 5 channels have the highest pagerank
+                   from_id  pagerank
+286540                      0.573575
+227019  channel_1179270258  0.004608
+103181  channel_1758820844  0.002487
+114644  channel_1136479756  0.002456
+209976  channel_1390659157  0.001600

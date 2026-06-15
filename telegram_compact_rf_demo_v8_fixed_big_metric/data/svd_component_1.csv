@@ -1,0 +1,8 @@
+feature,weight
+toxicity,-0.508617
+profanity,-0.474938
+severe_toxicity,-0.455069
+insult,-0.433525
+identity_attack,-0.324969
+threat,-0.120216
+log_forwards,0.025569

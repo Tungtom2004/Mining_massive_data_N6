@@ -1,0 +1,12 @@
+{
+  "n_clusters": 14,
+  "n_channels": 9827,
+  "n_messages": 1337710,
+  "high_risk": 3,
+  "top_cluster": "cluster_14",
+  "top_observed_cluster": "cluster_15",
+  "network_edges": 778644,
+  "network_profiles": 366230,
+  "network_communities": 5988,
+  "network_failed_parquet": 67
+}

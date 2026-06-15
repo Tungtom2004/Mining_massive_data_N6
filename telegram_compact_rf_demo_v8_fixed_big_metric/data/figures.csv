@@ -1,0 +1,7 @@
+section,title,file
+SVD,Behavioral SVD clusters,assets/figures/svd_clusters.png
+SVD,Average toxicity by behavioral cluster,assets/figures/svd_avg_toxicity.png
+SVD,Average forwards by behavioral cluster,assets/figures/svd_avg_forwards.png
+Network,Radar profile by channel archetype,assets/figures/network_radar.png
+Network,PCA projection of channel archetypes,assets/figures/network_pca.png
+Network,Feature distributions by channel archetype,assets/figures/network_feature_distribution.png
