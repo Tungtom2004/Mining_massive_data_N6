@@ -42,17 +42,7 @@ The project is designed to run on resource-constrained environments (e.g. Kaggle
 
 ## Pipeline overview
 
-```mermaid
-flowchart LR
-    HF[Hugging Face ZIP archives] --> Stream[File-level streaming\none parquet at a time]
-    Stream --> Filter[Filter: EN + political +\ntoxicity + forwards]
-    Filter --> Branch{Analysis track}
-
-    Branch --> Text[LDA topic modeling\non message content]
-    Branch --> Behavior[PCA/SVD on behavioral\nfeatures + KMeans]
-    Branch --> Channel[Channel feature\nengineering + UMAP]
-    Branch --> Network[Forwarding graph\nPageRank + Louvain]
-```
+![Project Screenshot](pipeline.png)
 
 ### File-level streaming strategy
 
